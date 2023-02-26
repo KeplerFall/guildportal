@@ -8,7 +8,7 @@ const Header = ()=>{
                 <div className="flex flex-row w-[80%] justify-evenly text-zinc-400 items-center text-[26px]">
                     <p className="h-fit hover:text-orange-600 transition duration-300 cursor-pointer"><a href="/">Home</a></p>
                     <a href="/regras"><p className="h-fit hover:text-orange-600 transition duration-300 cursor-pointer">Regras</p></a>
-                    <div >Logo da Guilda</div>
+                    <img src="https://i.imgur.com/JeyqZtj.png" alt="" className="max-h-[75px]"/>
                     <p className="h-fit hover:text-orange-600 transition duration-300 cursor-pointer">Conteúdos</p>
                     <p className="h-fit hover:text-orange-600 transition duration-300 cursor-pointer"><a href="/membros">Membros</a></p>
                 </div>
